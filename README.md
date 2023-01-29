@@ -1,7 +1,7 @@
 # Face clustering at La Liberté
 
 This repository contains the code used to conduct all the experiments for the
-master thesis **insert title + link to paper if hosted online**.
+master thesis "Deep learning face clustering at La Liberté: an exploratory pipeline".
 
 ## Usage
 
